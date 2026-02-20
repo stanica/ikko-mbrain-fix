@@ -2,5 +2,5 @@ id=mbrain-log-fix
 name=mBrain Log Spam Fix
 version=v1.0
 versionCode=1
-author=ikko-research
+author=orville
 description=Patches MediaTek mBrain ApplicationHelper to suppress PackageManager log spam in system_server
